@@ -475,6 +475,9 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-1 .mbr-section-lead {
+  font-size: 18px;
+}
 #features1-co .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
