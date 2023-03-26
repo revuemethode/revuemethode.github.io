@@ -1,1 +1,0 @@
-# revuemethode.github.io
